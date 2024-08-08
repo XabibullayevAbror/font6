@@ -1,0 +1,41 @@
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+nav{
+    width: 500px;
+    justify-content: space-around;
+    display: flex;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 500;
+    line-height: 93px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.card{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
